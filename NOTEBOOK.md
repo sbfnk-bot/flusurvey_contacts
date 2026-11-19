@@ -8,6 +8,8 @@ Each entry has three parts: the intent, in a person's own words, tidied for clea
 
 ### 2026-11-18 `[paper]` Scope and plan of the paper
 
+Pull request: [#1](https://github.com/sbfnk/flusurvey_contacts/pull/1).
+
 **Intent.** The Flusurvey contact data from 2011/12 and 2012/13 have never been published. Adding them to the contact-survey-sample-size paper would mean describing an unpublished dataset inside someone else's paper, so the better plan is a separate paper that describes the dataset, applies their variance partitioning as one of its analyses with a reference to their work, and answers the other questions the data can address. The raw data cannot be published, so they have to stay out of the repository.
 
 **Decided or changed.**
